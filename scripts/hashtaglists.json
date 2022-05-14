@@ -22,5 +22,9 @@
     {
         "list": "fashion",
         "hashtag": ["#digitalfasion", "#fashiondesign", "#fasion", "#cloth", "#fabric"]
+    },
+    {
+        "list": "uni",
+        "hashtag": ["uniwork"]
     }
 ]
