@@ -1,0 +1,26 @@
+[
+    {
+        "list": "general",
+        "hashtag": ["#3d", "#3dart", "#digitalart", "#cgart", "#design", "#render", "#3dtextureing", "#3dartwork", "#3dartist", "#artist", "#art", "#inspiration", "#3dmodeling", "#rendering"]
+    },
+    {
+        "list": "blender",
+        "hashtag": ["#blender", "#blender3d", "#blenderender", "#blendercommunity", "#blenderartwork"]
+    },
+    {
+        "list": "substancepainter",
+        "hashtag": ["#MadeWithSubstance", "#substance3dpainter", "#substancepainter", "#substance", "#textureing"]
+    },
+    {
+        "list": "marvelousdesigner",
+        "hashtag": ["#marvelousdesigner", "#clothsim"]
+    },
+    {
+        "list": "animation",
+        "hashtag": ["#animation", "#animation3d"]
+    },
+    {
+        "list": "fashion",
+        "hashtag": ["#digitalfasion", "#fashiondesign", "#fasion", "#cloth", "#fabric"]
+    }
+]
