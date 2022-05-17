@@ -1,11 +1,11 @@
 [
     {
         "list": "general",
-        "hashtag": ["#3d", "#3dart", "#digitalart", "#cgart", "#design", "#render", "#3dtextureing", "#3dartwork", "#3dartist", "#artist", "#art", "#inspiration", "#3dmodeling", "#rendering"]
+        "hashtag": ["#3d", "#3dart", "#digitalart", "#cgart", "#render", "#3dtextureing", "#3dartwork", "#3dartist", "#3dmodeling", "#rendering"]
     },
     {
         "list": "blender",
-        "hashtag": ["#blender", "#blender3d", "#blenderender", "#blendercommunity", "#blenderartwork"]
+        "hashtag": ["#blender", "#blender3d", "#b3d", "#blenderender", "#blendercommunity", "#blenderartwork"]
     },
     {
         "list": "substancepainter",
@@ -21,10 +21,10 @@
     },
     {
         "list": "fashion",
-        "hashtag": ["#digitalfasion", "#fashiondesign", "#fasion", "#cloth", "#fabric"]
+        "hashtag": ["#digitalfasion", "#fashiondesign", "#fashion", "#cloth", "#fabric"]
     },
     {
         "list": "uni",
-        "hashtag": ["uniwork"]
+        "hashtag": ["#uniwork"]
     }
 ]
