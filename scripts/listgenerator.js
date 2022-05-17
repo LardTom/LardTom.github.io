@@ -57,7 +57,7 @@ fetch("scripts/hashtaglists.json")
                     hashtagstring = hashtagstring + arr.join(" ") + " "
                     
 
-                    if (hashtagstring.split(" ").length > 30) {
+                    if (hashtagstring.split(" ").length > 31) {
                         alert("you have " + ((hashtagstring.split(" ").length)-1) + " hashtags. That are " + ((hashtagstring.split(" ").length)-31) + " to many." )
                     }
                     // console.log(hashtagstring)
